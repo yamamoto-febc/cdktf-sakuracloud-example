@@ -3,5 +3,5 @@
 node_modules
 cdktf.out
 terraform.tfstate*
-.gen
+# .gen
 .terraform
